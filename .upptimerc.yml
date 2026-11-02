@@ -1,4 +1,4 @@
-owner: devkraft-shashanksingh
+owner: shashank-singh-devkraft
 repo: uptime-monitor
 
 sites:
@@ -30,7 +30,7 @@ status-website:
   # Using GitHub Pages
   baseUrl: /uptime-monitor
 
-  logoUrl: https://raw.githubusercontent.com/devkraft-shashanksingh/uptime-monitor/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/shashank-singh-devkraft/uptime-monitor/master/assets/upptime-icon.svg
   name: Indegene Server Status
   introTitle: "**Indegene Server Status**"
   introMessage: Real-time monitoring for Indegene services powered by Upptime.
