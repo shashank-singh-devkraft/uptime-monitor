@@ -6,8 +6,8 @@
     "slug": "gist-qa-api",
     "status": "up",
     "uptime": "28.21%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.12%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "28.21%",
     "time": 8923,
@@ -226,9 +226,9 @@
     "slug": "supabase-check",
     "status": "down",
     "uptime": "88.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "88.52%",
     "time": 7569,
     "timeDay": 744,
@@ -264,7 +264,7 @@
       "2026-08-18": 322,
       "2026-08-20": 471,
       "2026-08-21": 131,
-      "2026-11-02": 0
+      "2026-11-02": 12
     }
   }
 ]
