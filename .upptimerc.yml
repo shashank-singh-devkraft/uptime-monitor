@@ -46,6 +46,6 @@ status-website:
 
   navbar:
     - title: Status
-      href: /
+      href: /uptime-monitor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
