@@ -14,6 +14,9 @@ sites:
   - name: Bayer PROD
     url: https://bayer-ws.indegene.com/bapi/v1/health
 
+  - name: Incyte
+    url: https://incyte-ws.indegene.com/bapi/v1/health
+
   - name: AOR Debranded QA
     url: https://aor-debranded-demo.indegene.com/bapi/v1/health
 
@@ -23,8 +26,14 @@ sites:
   - name: AOR Agents Comm Demo
     url: https://agents-comm-demo.indegene.com/bapi/v1/health
 
-  - name: Supabase Check
-    url: https://genai-qa.indegene.com/next-persona-v2/api/kol-agent/vector-store
+  - name: QA - GENAI
+    url: https://genai-qa.indegene.com/api/v1/health
+
+  - name: BI semantic
+    url: https://gist-bi.indegene.com/dashboard
+
+  - name: Sandbox
+    url: https://sandbox-superapp.indegene.com/next-gist
 
 status-website:
   # Using GitHub Pages
