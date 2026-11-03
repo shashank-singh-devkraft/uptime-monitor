@@ -2,9 +2,6 @@ owner: shashank-singh-devkraft
 repo: uptime-monitor
 
 sites:
-  - name: GIST QA API
-    url: https://gist-qa.indegene.com/api/v1/health
-
   - name: Bayer QA
     url: https://bayer-ws-qa.indegene.com/bapi/v1/health
 
