@@ -33,7 +33,7 @@ sites:
     url: https://gist-bi.indegene.com/dashboard
 
   - name: Sandbox
-    url: https://sandbox-superapp.indegene.com/next-gist
+    url: https://api-sandbox-superapp.indegene.com/gist-base/api/v1/health
 
 status-website:
   # Using GitHub Pages
