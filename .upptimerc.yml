@@ -27,7 +27,7 @@ sites:
     url: https://agents-comm-demo.indegene.com/bapi/v1/health
 
   - name: QA - GENAI
-    url: https://semantic-dev.devkraft.in/api/v1/health
+    url: https://gist-qa.indegene.com/api/v1/health
 
   - name: Dev
     url: https://semantic-dev.devkraft.in/api/v1/health
