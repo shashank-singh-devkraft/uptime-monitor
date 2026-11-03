@@ -27,10 +27,10 @@ sites:
     url: https://agents-comm-demo.indegene.com/bapi/v1/health
 
   - name: QA - GENAI
-    url: https://genai-qa.indegene.com/api/v1/health
+    url: https://semantic-dev.devkraft.in/api/v1/health
 
   - name: BI semantic
-    url: https://gist-bi.indegene.com/dashboard
+    url: https://api-bi.indegene.com/api/v1/health
 
   - name: Sandbox
     url: https://api-sandbox-superapp.indegene.com/gist-base/api/v1/health
