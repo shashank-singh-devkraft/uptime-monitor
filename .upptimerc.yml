@@ -29,6 +29,9 @@ sites:
   - name: QA - GENAI
     url: https://semantic-dev.devkraft.in/api/v1/health
 
+  - name: Dev
+    url: https://semantic-dev.devkraft.in/api/v1/health
+
   - name: BI semantic
     url: https://api-bi.indegene.com/api/v1/health
 
