@@ -1,7 +1,7 @@
-url: https://gist-bi.indegene.com/dashboard
+url: https://api-bi.indegene.com/api/v1/health
 status: up
 code: 200
-responseTime: 466
-lastUpdated: 2026-11-03T09:21:55.963Z
+responseTime: 420
+lastUpdated: 2026-11-03T09:27:54.894Z
 startTime: 2026-11-02T06:23:58.537Z
 generator: Upptime <https://github.com/upptime/upptime>
